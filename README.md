@@ -6,7 +6,9 @@ It is a PHP project.
 
 Instalation ::
 
-step 1)Copy full folder in your web directory.
+### steps
+
+1)Copy full folder in your web directory.
 
 2)Import database in your phpmyadmin named project1.sql.
 
@@ -20,7 +22,7 @@ For any query or feedback contact me at kpsagar1999@gmail.com.
 Thanx.
 
 
-# Precise Explanation regarding the work in detail :
+## Precise Explanation regarding the work in detail :
 INSTALLATION STEPS :
 1. Copy zip file and Unzip file on your local server.
 2. Put this file inside WAMP or XAMPP server.
