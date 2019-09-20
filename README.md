@@ -57,9 +57,10 @@ INSTALLATION STEPS :
 Low internet connection would be sufficient to load the pages, since we haven’t used any picture data(using pictures the user with low internet connection takes time to load the images).
 In other online exam system websites , we can find only one admin who is surely responsible for the addition or deletion of the test, but we made this site any number of authorized persons can add/remove the examinations and these all authorized persons and users of this site will be controlled by the admin.
 It could be very helpful for educational institues acting as :
-* Admin    ---   director of institute 
-* Teacher   ---   professors of college
-* User        ---   students of the college
+* Admin(headdash.php)    ---   director of institute 
+* Teacher(dash.php)   ---   professors of college
+* User(acccount.php)        ---   students of the college
+* home page (index.php)
 Security with password , even the admin cannot look at the password , ensuring the trust of the users.
 A feedback system available for suggesting improvements and registering complaints.
 
