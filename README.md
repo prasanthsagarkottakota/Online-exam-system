@@ -15,8 +15,8 @@ Instalation ::
 3)Edit dbconnection file.change username,password and database name.
 - Default user is root,password is null and database name is project1.
 
-Default admin email id is head@gmail.com and password is head .
-admin password is md5 encypted.
+<!-- Default admin email id is head@gmail.com and password is head .
+admin password is md5 encypted. -->
 
 For any query or feedback contact me at kpsagar1999@gmail.com.
 
